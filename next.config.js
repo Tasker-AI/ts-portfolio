@@ -2,6 +2,7 @@
 
 const nextConfig = {
   output: 'export',
+  basePath: '/ts-portfolio',
   // other configurations...
 }
 
