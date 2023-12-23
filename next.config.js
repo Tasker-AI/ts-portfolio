@@ -1,3 +1,8 @@
 /** @type {import('next').NextConfig} */
 
-module.exports = {};
+const nextConfig = {
+  output: 'export',
+  // other configurations...
+}
+
+module.exports = nextConfig;
