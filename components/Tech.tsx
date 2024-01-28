@@ -10,7 +10,8 @@ const Tech = () => {
 
       {/* <Title text="Tools" icon={<RiComputerLine />} /> */}
       <div className="flex gap-4 flex-wrap pb-8">
-        <TechInput title="LLMs" link="https://chat.openai.com/" />
+        <TechInput title="GPTs & GPT4" link="https://chat.openai.com/" />
+        <TechInput title="LLAMA2" link="https://ai.meta.com/llama/" />
         <TechInput title="GitHub Copilot" link="https://github.com/features/copilot" />
         <TechInput title="Linux CLI" link="https://ubuntu.com/" />
         <TechInput title="Google Sheets" link="https://www.google.com/sheets/about/" />
@@ -84,12 +85,14 @@ const Tech = () => {
         <TechInput title="IAM" link="https://aws.amazon.com/iam/" />
       </div>
 
-      {/* <Title text="Apps" icon={<RiComputerLine />} /> */}
+      {/* <Title text="Cloud / Other" icon={<RiComputerLine />} /> */}
       <div className="flex gap-4 flex-wrap">
         <TechInput title="Google Firebase" link="https://firebase.google.com/" />
         <TechInput title="Android Studio" link="https://developer.android.com/studio?gclid=CjwKCAiAp5qsBhAPEiwAP0qeJlkj41tC1TeJb2zXFUZg1yqupIMv93-Oedv4gGjeh5y2lkCiRLUCiBoCVnoQAvD_BwE&gclsrc=aw.ds" />
         <TechInput title="Java" link="https://www.java.com/en/" />
         <TechInput title="Affinity Designer" link="https://affinity.serif.com/en-us/designer/" />
+        <TechInput title="Figma" link="https://www.figma.com/" />
+        <TechInput title="SketchUp" link="https://www.sketchup.com/" />
         <TechInput title="Cloud front" link="https://aws.amazon.com/cloudfront/" />
         <TechInput title="S3" link="https://aws.amazon.com/s3/" />
         <TechInput title="EC2" link="https://aws.amazon.com/ec2/" />
