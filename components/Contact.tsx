@@ -15,8 +15,8 @@ const Contact = () => {
         </a>
       </div>
       <div className="mt-8 flex items-center flex-wrap   gap-8 justify-center">
-        <SocialLink title="Github" link="https://github.com/TaskerSolutions/ts-portfolio" />
-        <SocialLink title="Linkedin" link="https://www.linkedin.com/in/harry-tasker-126736226/" />
+        <SocialLink title="Github" link="https://github.com/Tasker-AI/ts-portfolio" />
+        <SocialLink title="Linkedin" link="https://www.linkedin.com/in/harry-tasker-ai/" />
       </div>
     </div>
   );
