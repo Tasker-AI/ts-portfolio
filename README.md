@@ -1,2 +1,2 @@
 # ts-portfolio
-TaskerSolutions.co.nz - Portfolio Website - Harry Tasker - Full Stack AI Augmented Developer
+TaskerSolutions.co.nz - Portfolio Website - Harry Tasker - AI Augmented Developer

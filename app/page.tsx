@@ -22,7 +22,6 @@ export default function Home() {
         <Banner />
         <Aboutme />
         <Tech />
-        <Skills />
         <Experience />
         <Projects />
         <Contact />

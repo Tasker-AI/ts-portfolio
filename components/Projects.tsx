@@ -8,7 +8,7 @@ import ProjectCard from "./ProjectCard";
 const Projects = () => {
   return (
     <div className="wrapper">
-      <Title text="Some Projects" icon={<FaProjectDiagram />} />
+      <Title text="Front End Examples" icon={<FaProjectDiagram />} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
         <ProjectCard
           img={HaheiEscapes.src}
