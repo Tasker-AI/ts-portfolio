@@ -16,11 +16,9 @@ const Banner = () => {
       <div className="w-3/4 flex flex-col items-center md:items-start    gap-2">
         <h1 className="text-5xl font-bold text-white">Harry Tasker</h1>
         <h3 className="text-xl md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide">
-          AI Augmented Developer
+          AI Developer
         </h3>
-        <p className="text-base tracking-wide text-center md:text-left">
-          {/* Exponentially scale your business outcomes, through harnessing emerging technologies. <br></br>  */}
-          </p>
+        {/* <p className="text-base tracking-wide text-center md:text-left"></p> */}
       </div>
     </div>
   );
