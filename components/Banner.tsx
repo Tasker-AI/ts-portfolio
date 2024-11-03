@@ -16,7 +16,7 @@ const Banner = () => {
       <div className="w-3/4 flex flex-col items-center md:items-start    gap-2">
         <h1 className="text-5xl font-bold text-white">Harry Tasker</h1>
         <h3 className="text-xl md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide">
-          AI Developer
+          AI First Engineer
         </h3>
         {/* <p className="text-base tracking-wide text-center md:text-left"></p> */}
       </div>

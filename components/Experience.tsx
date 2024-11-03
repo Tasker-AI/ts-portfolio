@@ -13,13 +13,13 @@ const Experience = () => {
       <Title text="Experience" icon={<MdWork />} />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
         <ExperienceCard
-          title="Tasker AI"
-          subTitle="Business Operations 2024"
+          title="Trilogy"
+          subTitle="AI First Support Engineer 2024 - Present"
           icon={<MdOutlineWorkOutline />}
         />
         <ExperienceCard
           title="Scale AI / RemoTasks"
-          subTitle="Fine tuning / RLHF 2023-2024"
+          subTitle="Fine Tuning / RLHF 2023-2024"
           icon={<RiRobot2Line />}
         />
         <ExperienceCard
