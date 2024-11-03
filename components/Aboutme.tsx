@@ -7,7 +7,7 @@ const Aboutme = () => {
       <Title text="About Me" icon={<SiInformatica />} />
       <div className="text-lg tracking-wide flex flex-col gap-6">
         <p>
-          I'm a Kiwi, who's passionate about learning, happiness and health.<br></br>
+          Passionate about learning, happiness and health.<br></br>
           Obsessed with AI and optimistic about the future!
         </p>
         <a href="mailto:harry@taskersolutions.co.nz" target="_blank">
